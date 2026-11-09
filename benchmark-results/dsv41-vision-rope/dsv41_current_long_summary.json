@@ -1,0 +1,77 @@
+{
+  "baseline": {
+    "windows": 4,
+    "successes": 1636,
+    "seconds": 720,
+    "failures_including_warmup": 0,
+    "empty": 0,
+    "output_lengths": [
+      64
+    ],
+    "pooled_rps": 2.272222222222222,
+    "rps_range": [
+      2.2666666666666666,
+      2.2888888888888888
+    ],
+    "latency_p50_ms_median": 1752.8217877516,
+    "latency_p50_ms_windows": [
+      1748.89,
+      1754.15,
+      1751.5,
+      1756.58
+    ],
+    "latency_p95_ms_median": 1791.0674750019098,
+    "latency_p95_ms_windows": [
+      1840.09,
+      1780.94,
+      1770.88,
+      1801.2
+    ],
+    "gpu_mean": 90.34606814866078
+  },
+  "candidate": {
+    "windows": 4,
+    "successes": 1688,
+    "seconds": 720,
+    "failures_including_warmup": 0,
+    "empty": 0,
+    "output_lengths": [
+      64
+    ],
+    "pooled_rps": 2.3444444444444446,
+    "rps_range": [
+      2.3333333333333335,
+      2.3555555555555556
+    ],
+    "latency_p50_ms_median": 1704.4368699971528,
+    "latency_p50_ms_windows": [
+      1700.18,
+      1701.38,
+      1713.88,
+      1707.49
+    ],
+    "latency_p95_ms_median": 1734.3575639970368,
+    "latency_p95_ms_windows": [
+      1735.95,
+      1721.16,
+      1733.26,
+      1735.46
+    ],
+    "gpu_mean": 91.50789666878647
+  },
+  "changes_pct": {
+    "pooled_rps": 3.17848410757946,
+    "latency_p50_ms_median": -2.7604014334230764,
+    "latency_p95_ms_median": -3.1662632366663113
+  },
+  "text_comparison": {
+    "1_images_c1": {
+      "equal": 12,
+      "total": 12
+    },
+    "4_images_c1": {
+      "equal": 0,
+      "total": 12
+    }
+  }
+}

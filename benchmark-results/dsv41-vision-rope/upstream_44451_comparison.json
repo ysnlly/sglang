@@ -1,0 +1,192 @@
+[
+  {
+    "dtype": "torch.bfloat16",
+    "strided": false,
+    "implementation": "upstream",
+    "diff_elements": 59,
+    "max_abs_error": 0.0078125,
+    "mutates_inputs": true
+  },
+  {
+    "dtype": "torch.bfloat16",
+    "strided": false,
+    "implementation": "candidate",
+    "diff_elements": 0,
+    "max_abs_error": 0.0,
+    "mutates_inputs": false
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 0,
+    "implementation": "reference",
+    "us": 55.910072326660156
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 0,
+    "implementation": "candidate",
+    "us": 7.9418192727013865
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 0,
+    "implementation": "upstream",
+    "us": 11.705392129713081
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 1,
+    "implementation": "upstream",
+    "us": 11.705101745903523
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 1,
+    "implementation": "candidate",
+    "us": 7.91060921946946
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 1,
+    "implementation": "reference",
+    "us": 55.42456523932703
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 2,
+    "implementation": "upstream",
+    "us": 11.700466040723693
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 2,
+    "implementation": "candidate",
+    "us": 7.886576574866081
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.bfloat16",
+    "rep": 2,
+    "implementation": "reference",
+    "us": 55.30660680822424
+  },
+  {
+    "dtype": "torch.bfloat16",
+    "strided": true,
+    "implementation": "upstream",
+    "diff_elements": 3084397,
+    "max_abs_error": 8.78125,
+    "mutates_inputs": false
+  },
+  {
+    "dtype": "torch.bfloat16",
+    "strided": true,
+    "implementation": "candidate",
+    "diff_elements": 0,
+    "max_abs_error": 0.0,
+    "mutates_inputs": false
+  },
+  {
+    "dtype": "torch.float16",
+    "strided": false,
+    "implementation": "upstream",
+    "diff_elements": 346,
+    "max_abs_error": 0.001953125,
+    "mutates_inputs": true
+  },
+  {
+    "dtype": "torch.float16",
+    "strided": false,
+    "implementation": "candidate",
+    "diff_elements": 0,
+    "max_abs_error": 0.0,
+    "mutates_inputs": false
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 0,
+    "implementation": "reference",
+    "us": 55.64165137080234
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 0,
+    "implementation": "candidate",
+    "us": 7.828382234724741
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 0,
+    "implementation": "upstream",
+    "us": 11.682092492701841
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 1,
+    "implementation": "upstream",
+    "us": 11.689719895790567
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 1,
+    "implementation": "candidate",
+    "us": 7.869661209431101
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 1,
+    "implementation": "reference",
+    "us": 55.272752033427324
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 2,
+    "implementation": "upstream",
+    "us": 11.694355917285895
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 2,
+    "implementation": "candidate",
+    "us": 7.851828400120428
+  },
+  {
+    "benchmark": "Q/K operator plus identical two input resets",
+    "dtype": "torch.float16",
+    "rep": 2,
+    "implementation": "reference",
+    "us": 55.08278041209989
+  },
+  {
+    "dtype": "torch.float16",
+    "strided": true,
+    "implementation": "upstream",
+    "diff_elements": 3109881,
+    "max_abs_error": 8.765625,
+    "mutates_inputs": false
+  },
+  {
+    "dtype": "torch.float16",
+    "strided": true,
+    "implementation": "candidate",
+    "diff_elements": 0,
+    "max_abs_error": 0.0,
+    "mutates_inputs": false
+  }
+]

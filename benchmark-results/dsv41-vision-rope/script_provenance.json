@@ -1,0 +1,17 @@
+{
+  "note": "Original executed script SHA256 values; published scripts replace host-specific paths/model endpoint constants with CLI arguments. Measurement/scoring logic is unchanged. Portable copies have syntax checks, not a new full-model benchmark.",
+  "original_sha256": {
+    "dsv41_prepare_mmmu.py": "679713d49c2631f299f44f61cd3c8ab4d196849fd787e660d692f77bf1cdd139",
+    "dsv41_sustained_probe.py": "0e14ccf50744f4e92cd392f616f0407e8c7ec357ac33ccc48f3502ade01b4b7d",
+    "dsv41_mmmu_eval.py": "7a6ab36543c26cee58acc5fc65ac98903af56889174d75fa16adbde3858c2cea",
+    "dsv41_kernel_memcheck.py": "ba6375d56ee2a310339909cd91033ba71b3ce1505a28d357d87770e56be2954c",
+    "compare_upstream_44451.py": "7343b8d5c73ee5d64313184bfe58adb008d2aec9ac988c1344013571f52fa033"
+  },
+  "published_sha256": {
+    "dsv41_prepare_mmmu.py": "2139d444ca292f8717f4f1d15725a997e8d45bcde100135c70096d1df1d89f60",
+    "dsv41_sustained_probe.py": "4b34c379ee17eb0123d394293f0db40dd1e8f223875f256ce68b3ae43c9edabb",
+    "dsv41_mmmu_eval.py": "934454dc143a136c1e5c8b7109837c2c1fc805b649abe55f64a306ba41785fed",
+    "dsv41_kernel_memcheck.py": "8a054f8c504d3ca87dd32c4d39667e784a89e3437fcf15e8d6da61c061ce28c8",
+    "compare_upstream_44451.py": "e53015b9291dc1f8af09e37f0e0f46765e61396b8291e8ab405cadb05513c7f0"
+  }
+}

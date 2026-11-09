@@ -1,0 +1,133 @@
+{
+  "status": "completed_requires_review",
+  "arms": {
+    "baseline1": {
+      "arm": "baseline1",
+      "samples": 900,
+      "errors": 0,
+      "truncated": 2,
+      "parse_fallback": 1,
+      "correct": 602,
+      "groups": {
+        "single": {
+          "total": 857,
+          "correct": 573
+        },
+        "multi": {
+          "total": 43,
+          "correct": 29
+        }
+      }
+    },
+    "candidate2": {
+      "arm": "candidate2",
+      "samples": 900,
+      "errors": 0,
+      "truncated": 4,
+      "parse_fallback": 2,
+      "correct": 602,
+      "groups": {
+        "single": {
+          "total": 857,
+          "correct": 572
+        },
+        "multi": {
+          "total": 43,
+          "correct": 30
+        }
+      }
+    },
+    "baseline3": {
+      "arm": "baseline3",
+      "samples": 900,
+      "errors": 0,
+      "truncated": 4,
+      "parse_fallback": 2,
+      "correct": 607,
+      "groups": {
+        "single": {
+          "total": 857,
+          "correct": 577
+        },
+        "multi": {
+          "total": 43,
+          "correct": 30
+        }
+      }
+    },
+    "candidate4": {
+      "arm": "candidate4",
+      "samples": 900,
+      "errors": 0,
+      "truncated": 4,
+      "parse_fallback": 1,
+      "correct": 607,
+      "groups": {
+        "single": {
+          "total": 857,
+          "correct": 577
+        },
+        "multi": {
+          "total": 43,
+          "correct": 30
+        }
+      }
+    }
+  },
+  "paired": {
+    "all": {
+      "distinct_questions": 900,
+      "accuracy_delta_percentage_points": 0.0,
+      "question_cluster_bootstrap_95pct_pp": [
+        -0.5,
+        0.5
+      ],
+      "baseline_repeat_correctness_disagreements": 17,
+      "candidate_repeat_correctness_disagreements": 13,
+      "candidate_lower_ids": [
+        "validation_Architecture_and_Engineering_19",
+        "validation_Architecture_and_Engineering_7",
+        "validation_Design_22",
+        "validation_Finance_13",
+        "validation_History_9",
+        "validation_Materials_2",
+        "validation_Materials_8",
+        "validation_Mechanical_Engineering_1",
+        "validation_Pharmacy_30"
+      ]
+    },
+    "single": {
+      "distinct_questions": 857,
+      "accuracy_delta_percentage_points": -0.05834305717619603,
+      "question_cluster_bootstrap_95pct_pp": [
+        -0.5834305717619603,
+        0.4667444574095682
+      ],
+      "baseline_repeat_correctness_disagreements": 16,
+      "candidate_repeat_correctness_disagreements": 13,
+      "candidate_lower_ids": [
+        "validation_Architecture_and_Engineering_19",
+        "validation_Architecture_and_Engineering_7",
+        "validation_Design_22",
+        "validation_Finance_13",
+        "validation_History_9",
+        "validation_Materials_2",
+        "validation_Materials_8",
+        "validation_Mechanical_Engineering_1",
+        "validation_Pharmacy_30"
+      ]
+    },
+    "multi": {
+      "distinct_questions": 43,
+      "accuracy_delta_percentage_points": 1.1627906976744187,
+      "question_cluster_bootstrap_95pct_pp": [
+        0.0,
+        3.488372093023256
+      ],
+      "baseline_repeat_correctness_disagreements": 1,
+      "candidate_repeat_correctness_disagreements": 0,
+      "candidate_lower_ids": []
+    }
+  },
+  "limitations": "Adapted labeled-image API harness. 900 distinct validation questions; only 43 are multi-image. Four runs do not create 3600 independent examples. Bootstrap describes this sample and does not prove universal equivalence. HTTP errors/truncation/extraction fallback must be reviewed."
+}
