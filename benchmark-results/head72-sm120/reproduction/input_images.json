@@ -1,0 +1,130 @@
+[
+  {
+    "name": "chelsea.png",
+    "original_sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+    "original_size": [
+      451,
+      300
+    ]
+  },
+  {
+    "name": "coffee.png",
+    "original_sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+    "original_size": [
+      600,
+      400
+    ]
+  },
+  {
+    "name": "rocket.jpg",
+    "original_sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+    "original_size": [
+      640,
+      427
+    ]
+  },
+  {
+    "name": "astronaut.png",
+    "original_sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "hubble_deep_field.jpg",
+    "original_sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+    "original_size": [
+      1000,
+      872
+    ]
+  },
+  {
+    "name": "motorcycle_left.png",
+    "original_sha256": "db18e9c4157617403c3537a6ba355dfeafe9a7eabb6b9b94cb33f6525dd49179",
+    "original_size": [
+      741,
+      500
+    ]
+  },
+  {
+    "name": "motorcycle_right.png",
+    "original_sha256": "5fc913ae870e42a4b662314bc904d1786bcad8e2f0b9b67dba5a229406357797",
+    "original_size": [
+      741,
+      500
+    ]
+  },
+  {
+    "name": "camera.png",
+    "original_sha256": "b0793d2adda0fa6ae899c03989482bff9a42d3d5690fc7e3648f2795d730c23a",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "clock_motion.png",
+    "original_sha256": "f029226b28b642e80113d86622e9b215ee067a0966feaf5e60604a1e05733955",
+    "original_size": [
+      400,
+      300
+    ]
+  },
+  {
+    "name": "coins.png",
+    "original_sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+    "original_size": [
+      384,
+      303
+    ]
+  },
+  {
+    "name": "grass.png",
+    "original_sha256": "b6b6022426b38936c43a4ac09635cd78af074e90f42ffa8227ac8b7452d39f89",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "gravel.png",
+    "original_sha256": "c48615b451bf1e606fbd72c0aa9f8cc0f068ab7111ef7d93bb9b0f2586440c12",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "ihc.png",
+    "original_sha256": "f8dd1aa387ddd1f49d8ad13b50921b237df8e9b262606d258770687b0ef93cef",
+    "original_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "name": "cell.png",
+    "original_sha256": "8d23a7fb81f7cc877cd09f330357fc7f595651306e84e17252f6e0a1b3f61515",
+    "original_size": [
+      550,
+      660
+    ]
+  },
+  {
+    "name": "page.png",
+    "original_sha256": "341a6f0a61557662b02734a9b6e56ec33a915b2c41886b97509dedf2a43b47a3",
+    "original_size": [
+      384,
+      191
+    ]
+  },
+  {
+    "name": "moon.png",
+    "original_sha256": "78739619d11f7eb9c165bb5d2efd4772cee557812ec847532dbb1d92ef71f577",
+    "original_size": [
+      512,
+      512
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "source_download": {
+    "revision": "e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae",
+    "images": [
+      {
+        "name": "chelsea.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/chelsea.png",
+        "sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb",
+        "bytes": 240512
+      },
+      {
+        "name": "coffee.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/coffee.png",
+        "sha256": "cc02f8ca188b167c775a7101b5d767d1e71792cf762c33d6fa15a4599b5a8de7",
+        "bytes": 466706
+      },
+      {
+        "name": "rocket.jpg",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/rocket.jpg",
+        "sha256": "c2dd0de7c538df8d111e479619b129464d0269d0ae5fd18ca91d33a7fdfea95c",
+        "bytes": 112525
+      },
+      {
+        "name": "astronaut.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/astronaut.png",
+        "sha256": "88431cd9653ccd539741b555fb0a46b61558b301d4110412b5bc28b5e3ea6cb5",
+        "bytes": 791555
+      },
+      {
+        "name": "hubble_deep_field.jpg",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/hubble_deep_field.jpg",
+        "sha256": "3a19c5dd8a927a9334bb1229a6d63711b1c0c767fb27e2286e7c84a3e2c2f5f4",
+        "bytes": 527940
+      },
+      {
+        "name": "motorcycle_left.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/motorcycle_left.png",
+        "sha256": "db18e9c4157617403c3537a6ba355dfeafe9a7eabb6b9b94cb33f6525dd49179",
+        "bytes": 644701
+      },
+      {
+        "name": "motorcycle_right.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/motorcycle_right.png",
+        "sha256": "5fc913ae870e42a4b662314bc904d1786bcad8e2f0b9b67dba5a229406357797",
+        "bytes": 640373
+      },
+      {
+        "name": "camera.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/camera.png",
+        "sha256": "b0793d2adda0fa6ae899c03989482bff9a42d3d5690fc7e3648f2795d730c23a",
+        "bytes": 139512
+      },
+      {
+        "name": "clock_motion.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/clock_motion.png",
+        "sha256": "f029226b28b642e80113d86622e9b215ee067a0966feaf5e60604a1e05733955",
+        "bytes": 58784
+      },
+      {
+        "name": "coins.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/coins.png",
+        "sha256": "f8d773fc9cfa6f4d8e5942dc34d0a0788fcaed2a4fefbbed0aef5398d7ef4cba",
+        "bytes": 75825
+      },
+      {
+        "name": "grass.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/grass.png",
+        "sha256": "b6b6022426b38936c43a4ac09635cd78af074e90f42ffa8227ac8b7452d39f89",
+        "bytes": 217893
+      },
+      {
+        "name": "gravel.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/gravel.png",
+        "sha256": "c48615b451bf1e606fbd72c0aa9f8cc0f068ab7111ef7d93bb9b0f2586440c12",
+        "bytes": 194247
+      },
+      {
+        "name": "ihc.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/ihc.png",
+        "sha256": "f8dd1aa387ddd1f49d8ad13b50921b237df8e9b262606d258770687b0ef93cef",
+        "bytes": 477916
+      },
+      {
+        "name": "cell.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/cell.png",
+        "sha256": "8d23a7fb81f7cc877cd09f330357fc7f595651306e84e17252f6e0a1b3f61515",
+        "bytes": 74183
+      },
+      {
+        "name": "page.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/page.png",
+        "sha256": "341a6f0a61557662b02734a9b6e56ec33a915b2c41886b97509dedf2a43b47a3",
+        "bytes": 47679
+      },
+      {
+        "name": "moon.png",
+        "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/e8a42ba85aaf5fd9322ef9ca51bc21063b22fcae/skimage/data/moon.png",
+        "sha256": "78739619d11f7eb9c165bb5d2efd4772cee557812ec847532dbb1d92ef71f577",
+        "bytes": 50177
+      }
+    ],
+    "image_count": 16,
+    "all_source_hashes_passed": true,
+    "model_requests_sent": 0
+  },
+  "native_cases": [
+    {
+      "case": "small_single_c1",
+      "trace_sha256": "ccf855f9fd43f0d71238a643d3fa8cdf2f2db09806ffa56c31e9c15d81e4f804",
+      "manifest_sha256": "9a255feaa3eebf73a6de1c5b3644e46ccf86b9c598752e1d14f39fc87dd9312c"
+    },
+    {
+      "case": "small_single_c4",
+      "trace_sha256": "4f3127d7a11a2530f44097ce5281bf0a943a3480bd788151c2a2265b5493b382",
+      "manifest_sha256": "d2b3a4c1b81da8050c4bbed9dc175b50cee85c765d939f32f925c94e8ea44e60"
+    },
+    {
+      "case": "small_multi_c1",
+      "trace_sha256": "86c76639f6f7d5b0e2f56f99eebe3700ba2eea9ceacc949a841f1566d19b099f",
+      "manifest_sha256": "5fbd405367f3b155df3ff50723a67b3c4b1b8bb0911d4fbcefc2c52eb5661032"
+    },
+    {
+      "case": "small_multi_c4",
+      "trace_sha256": "d5008f3c601c9e56062972d33a88b971b954a9cfa9917293f1cbadc4f34e6e3f",
+      "manifest_sha256": "6c4c0cfd8a0bd572544c3b48d97a11c8460af9a84517a57d54501118ddff8770"
+    },
+    {
+      "case": "large_single_c1",
+      "trace_sha256": "c36b20216050e87e6be45279922c0f5ff874a24196b0af297d82e1b663b5ae0d",
+      "manifest_sha256": "605c254529e48663a6a2b316056edcdd390154c7fc62447ba9b44eee2412a2d0"
+    },
+    {
+      "case": "large_single_c4",
+      "trace_sha256": "080eeeedf4b92e19ca5cb48ef10a8dd56bac6964d7408e61be6f9cc4c3369091",
+      "manifest_sha256": "6039eadf0c4b54469572425763658e56870a6defa8994fef03f28906cf364624"
+    },
+    {
+      "case": "large_multi_c1",
+      "trace_sha256": "4a93efd9768b3814847f528563fe8f884112189b96d6ad2922027b5088062bbd",
+      "manifest_sha256": "a20c506aba967aa55a3cf9e5f51135d0e07b1457ae8cd6258209b33880f23c8f"
+    },
+    {
+      "case": "large_multi_c4",
+      "trace_sha256": "cde4ead2d7b55edfdcb6a444b198d942a0529fe039994768ddba14187f49b95b",
+      "manifest_sha256": "f024c522560c0c06109b9a782e3519e15650ccbb2d799c71f9c66688cb70f7b8"
+    }
+  ],
+  "all_eight_trace_manifests_byte_identical": true,
+  "requests_sent": 0,
+  "gpu_work_started": false,
+  "scope": "Local CPU preparation using newly downloaded pinned public source images; no inference experiment"
+}

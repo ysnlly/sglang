@@ -1,0 +1,49 @@
+{
+  "scope": "Synthetic CPU fixtures only, not measured performance or a final target verdict",
+  "reference_paired_stats_sha256": "76213b70dbf4e023a3d39928cf17361c5eefbc84e6077ce9dd00b47b8df50fa6",
+  "analyzer_sha256": "febbe145b88de233a1d86db65a30ed7797a958c33b5c4f95bf0095373126da95",
+  "fixtures": [
+    {
+      "name": "constant_win",
+      "all_11_metrics_match_formal_implementation": true,
+      "statistical_pass": true
+    },
+    {
+      "name": "varying_win",
+      "all_11_metrics_match_formal_implementation": true,
+      "statistical_pass": true
+    },
+    {
+      "name": "control_failure",
+      "all_11_metrics_match_formal_implementation": true,
+      "statistical_pass": false
+    },
+    {
+      "name": "latency_failure",
+      "all_11_metrics_match_formal_implementation": true,
+      "statistical_pass": false
+    },
+    {
+      "name": "primary_inconclusive",
+      "all_11_metrics_match_formal_implementation": true,
+      "statistical_pass": false
+    },
+    {
+      "name": "primary_loss",
+      "all_11_metrics_match_formal_implementation": true,
+      "statistical_pass": false
+    }
+  ],
+  "rejected": [
+    "partial_pairs",
+    "duplicate_pair",
+    "wrong_order",
+    "missing_metric",
+    "nan",
+    "zero",
+    "negative",
+    "boolean"
+  ],
+  "requests_sent": 0,
+  "gpu_work_started": false
+}

@@ -1,0 +1,7 @@
+{
+  "duplicate_native_endpoints_rejected_before_preparation": true,
+  "cli_help_checks_passed": 5,
+  "python_syntax_passed": true,
+  "requests_sent": 0,
+  "gpu_work_started": false
+}

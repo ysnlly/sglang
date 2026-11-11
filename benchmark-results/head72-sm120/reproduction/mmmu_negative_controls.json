@@ -1,0 +1,10 @@
+{
+  "checks": [
+    "wrong_image_bytes_rejected",
+    "changed_question_even_with_recomputed_file_hash_rejected",
+    "duplicate_endpoints_rejected"
+  ],
+  "gpu_work_started": false,
+  "requests_sent": 0,
+  "fixture_only": true
+}

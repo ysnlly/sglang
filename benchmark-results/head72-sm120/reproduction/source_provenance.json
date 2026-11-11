@@ -1,0 +1,23 @@
+{
+  "native_stress_trace.py": {
+    "sha256": "c469ce62541c0f8246d6fb00b2993eba259de90acc2ac21c460e2cfef878ca47",
+    "copied_byte_for_byte": true,
+    "source": "e2e/bundle_sources/native_stress_trace.py"
+  },
+  "mmmu_fixed_replay.py": {
+    "sha256": "41ce4e232ff008fe6a6865b8162cda9a45b2589b7a6e137dc8bf03373fc58a44",
+    "copied_byte_for_byte": true,
+    "source": "e2e/bundle_sources/mmmu_fixed_replay.py"
+  },
+  "frozen_fixed_trace.py": {
+    "sha256": "18523ab13b0a8b09def797828cfeda8ffea6619e285559c6989d2283379be6da",
+    "copied_byte_for_byte": true,
+    "source": "e2e/bundle_sources/frozen_fixed_trace.py"
+  },
+  "frozen_quality_requests.py": {
+    "sha256": "ba292e309c61fb28aa5e5c15e8692a40ffc0d3a75591b832b85b8ebf40da31f7",
+    "copied_byte_for_byte": true,
+    "source": "quality-archive/integrated-quality-eight-20261110-1733/mm_quality_evaluate_20261110.py",
+    "request_body_matches_performance_embedded_source": true
+  }
+}

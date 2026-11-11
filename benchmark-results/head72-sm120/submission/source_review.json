@@ -1,0 +1,12 @@
+{
+  "base_commit": "14e395aa5e5eb00c6a3e3c755bf224221817dbe9",
+  "files": {
+    "python/sglang/kernels/ops/attention/prefill_attention.py": "21e884372d5e9ae80a44873d0c8cce5b876ab925cb53213f615bef9cd0bcff5e",
+    "test/registered/kernels/ops/attention/test_prefill_attention_head72.py": "87b6b03c82f9b486cd6f89411e0a6db215c79956958a401f5eab763ca3158c2e"
+  },
+  "patch_sha256": "9901fcd64e2f62709ce7e364dce39fd0e10687757711010d3717f5af8a1d8770",
+  "patch_applies_to_frozen_original": true,
+  "applied_files_match_qualified_hashes": true,
+  "fallback_kernel_ast_identical_after_resolving_split_false": true,
+  "scope": "Static source and patch identity only; no new runtime or architecture coverage"
+}

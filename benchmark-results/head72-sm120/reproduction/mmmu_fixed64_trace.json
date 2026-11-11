@@ -1,0 +1,7 @@
+{
+  "trace_sha256": "63dd7346e4fe92779e0413bc558c0e3595b8e2cd509d7c4af06657f08800a1c6",
+  "source": "Frozen formal performance suite",
+  "request_count": 900,
+  "seed": 20261110,
+  "output_tokens": 64
+}

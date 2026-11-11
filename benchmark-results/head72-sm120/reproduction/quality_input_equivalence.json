@@ -1,0 +1,9 @@
+{
+  "full_quality_requests_matched": 900,
+  "source_request_method_diff": "Only endpoint expression differs; normalized AST matches measured method",
+  "body_scoring_warmup_scheduling_source_copied_byte_for_byte": true,
+  "images_verified_by_export": 982,
+  "gpu_work_started": false,
+  "requests_sent": 0,
+  "scorer_execution_not_repeated": true
+}
